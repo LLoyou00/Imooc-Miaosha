@@ -4,6 +4,6 @@
 http://www.imooc.com/u/2145618/courses?sort=publish <br>
 <hr>
 本项目使用了Redis服务器进行并发优化，你可以选择注释掉与Redis相关的代码或者自己创建一个Redis服务器，具体方法参加视频<br>
-本项目使用MariaDB代替MySQL，数据库初始脚本在 <h5>WebContent/resources</h5> 
+本项目使用MariaDB代替MySQL，数据库初始脚本在 <b>WebContent/resources</b> 
 <hr>
 最后，在此对视频的提供者 yijun zhang 表示深刻的谢意
